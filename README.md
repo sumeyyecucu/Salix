@@ -1,2 +1,2 @@
 ### Zero Waste and Environmental Awareness Project :recycle:
-This project is a mobile application project that aims to increase the recycling rate and protect the environment by encouraging people to recycle.
+This project aims to develop a mobile application to promote recycling habits and raise environmental awareness, especially among young people. It facilitates waste management through innovative strategies such as an AI-powered waste recognition system and an interactive user platform. The app tracks users' recycling data, organizes eco-friendly events, and encourages sustainable behaviors through a gamified scoring system. By offering engaging and interactive methods, it contributes to enhancing environmental awareness in society.
