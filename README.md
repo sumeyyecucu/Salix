@@ -1,1 +1,1 @@
-# Salix
+# Zero Waste and Environmental Awareness Project
